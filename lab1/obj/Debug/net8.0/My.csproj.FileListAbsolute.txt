@@ -1,0 +1,14 @@
+/Users/valeria/Desktop/3cs/first/My/bin/Debug/net8.0/My
+/Users/valeria/Desktop/3cs/first/My/bin/Debug/net8.0/My.deps.json
+/Users/valeria/Desktop/3cs/first/My/bin/Debug/net8.0/My.runtimeconfig.json
+/Users/valeria/Desktop/3cs/first/My/bin/Debug/net8.0/My.dll
+/Users/valeria/Desktop/3cs/first/My/bin/Debug/net8.0/My.pdb
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.AssemblyInfoInputs.cache
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.AssemblyInfo.cs
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.csproj.CoreCompileInputs.cache
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.dll
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/refint/My.dll
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.pdb
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/My.genruntimeconfig.cache
+/Users/valeria/Desktop/3cs/first/My/obj/Debug/net8.0/ref/My.dll
