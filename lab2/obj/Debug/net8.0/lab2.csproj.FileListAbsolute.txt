@@ -1,0 +1,14 @@
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.AssemblyInfoInputs.cache
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.AssemblyInfo.cs
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.csproj.CoreCompileInputs.cache
+/Users/valeria/Desktop/3cs/first/My/lab2/bin/Debug/net8.0/lab2
+/Users/valeria/Desktop/3cs/first/My/lab2/bin/Debug/net8.0/lab2.deps.json
+/Users/valeria/Desktop/3cs/first/My/lab2/bin/Debug/net8.0/lab2.runtimeconfig.json
+/Users/valeria/Desktop/3cs/first/My/lab2/bin/Debug/net8.0/lab2.dll
+/Users/valeria/Desktop/3cs/first/My/lab2/bin/Debug/net8.0/lab2.pdb
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.dll
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/refint/lab2.dll
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.pdb
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/lab2.genruntimeconfig.cache
+/Users/valeria/Desktop/3cs/first/My/lab2/obj/Debug/net8.0/ref/lab2.dll
